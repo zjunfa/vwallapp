@@ -1,0 +1,86 @@
+{
+	"carousel":[
+	{
+		"img":"../src/assets/imgaes/groom/home-page09 (1).jpg"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page09 (2).png"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page09 (3).jpg"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page09 (4).jpg"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page09 (5).jpg"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page09 (6).jpg"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page09 (7).jpg"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page09 (8).jpg"
+	}
+	],
+	
+	"swiper":[
+	{
+		"img":"../src/assets/imgaes/groom/home-page01.png",
+		"name":"优享购"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page02.png",
+		"name":"邀请有礼"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page03.png",
+		"name":"会员领券"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page04.png",
+		"name":"以旧换新"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page05.png",
+		"name":"优购码"
+	}
+	],
+	"container":[
+	{
+		"img":"../src/assets/imgaes/groom/home-page06 (1).png",
+		"abbr":"华为手环 B5",
+		"name":"赠配件礼包",
+		"bool":"1"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page06 (2).png",
+		"abbr":"荣耀9i",
+		"name":"最高降200",
+		"bool":"1"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page06 (3).png",
+		"bool":"0"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page06 (4).png",
+		"abbr":"荣耀手表",
+		"name":"下单立减20元",
+		"bool":"1"
+	},
+	{
+		"img":"../src/assets/imgaes/groom/home-page06 (5).png",
+		"abbr":"平板 M5 青春版",
+		"name":"新品3期免息",
+		"bool":"1"
+	}
+	],
+	"article":[
+	{
+		
+	}
+	]
+}
