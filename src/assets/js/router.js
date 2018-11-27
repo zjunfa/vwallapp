@@ -65,20 +65,8 @@ export default new vueRouter({
 		path:'/message-login',component:messagelogin
 	},
 	{
-		path:"/",
-		component:foot,
-		children:[
-		{
-			path:"/",
-			component:header,
-			children:[
-			{
-				path:"/",
-				component:groom
-			}
-			]
-		}
-		]
+		path:"/*",redirect:"/groom"
+		
 	}
 	
 	]
