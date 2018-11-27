@@ -17,7 +17,7 @@ export default {
   name: 'app',
   data () {
     return {
-          
+
     }
   }
 }
@@ -44,7 +44,7 @@ ul li{
 	height:2.5em;
 	text-align: center;
 	display: block;
-  
+
   position: relative;
 }
 ul li a{

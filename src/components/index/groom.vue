@@ -2,7 +2,7 @@
 	<section style="background-color: rgb(249, 249, 249);">
 		<div class="home-load">
 			<section class="pro-gallery backpic-slider" style="background-image: url(&quot;&quot;);">
-				<div class="swiper-container swiper-container-horizontal swiper-container-ios" style="height: 7.35em;"> 
+				<div class="swiper-container swiper-container-horizontal swiper-container-ios" style="height: 7.35em;">
 					<mt-swipe :auto="4000">
 					  <mt-swipe-item v-for="v in carousel"><img :src=v.img></mt-swipe-item>
 					</mt-swipe>
@@ -36,9 +36,9 @@
 			</div>
 			<section class="seckill">
 				<h3>
-					<span class="time" style="font-size: 0.8rem;">限时特惠</span> 
-					<span class="icon-seckill-title"></span> 
-					<span class="count-down time">03:22:55 </span> 
+					<span class="time" style="font-size: 0.8rem;">限时特惠</span>
+					<span class="icon-seckill-title"></span>
+					<span class="count-down time">03:22:55 </span>
 					<span class="tip-name">后结束</span>
 				</h3>
 				<div class="swiper-container swiper-container-horizontal swiper-container-ios">
@@ -60,7 +60,7 @@
 								<div class="img-area">
 									<p class="p-img"><img src="../../assets/imgaes/groom/home-page06 (3).png" alt="荣耀9i"></p>
 									<p class="p-abbr">荣耀9i</p>
-									
+
 								</div>
 								<p class="p-name"><b>最高降200</b> <del></del></p>
 							</a>
@@ -130,7 +130,7 @@
 						<!--<div class="swiper-slide" style="width: 85.0819px;">
 							<a href="https://msale.vmall.com/honorsmart.html"><img src="../../assets/img/home-page/home-page17.png"></a>
 						</div>-->
-					</div> 
+					</div>
 					<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
 				</div>
 			</section>
@@ -350,7 +350,7 @@
 								</a>
 							</div>
 						</div> <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-				</div>	
+				</div>
 			</section>
 			<section class="channel-floor region-area">
 					<header>
@@ -472,14 +472,14 @@
 						<a href="https://m.vmall.com/category-36" class="more"><span>发现更多手机</span></a>
 					</footer>
 				</section>
-				
+
 		</div>
 	</section>
 </template>
 
 <script>
-	export default {
-  data () {
+export default {
+  data(){
     return {
           carousel:"",
           wrap:"",
@@ -753,7 +753,7 @@ img {
 	display: -webkit-box;
 	 -webkit-line-clamp: 1;
     -webkit-box-orient: vertical;
-	
+
 }
 .seckill .swiper-slide .p-name b, .seckill .swiper-slide .p-price b {
     font-size: .525rem;
